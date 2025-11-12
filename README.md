@@ -113,6 +113,9 @@ Data Acquisition → Preprocessing → Crack Detection (YOLO + RL Agents)
 Este proyecto se distribuye bajo la **Licencia MIT**.  
 Consulta el archivo [LICENSE](LICENSE) para más información.
 
+
+
 ---
 
 > 🧩 *AbregoBridge fusiona la inteligencia artificial y la ingeniería estructural para dar paso a una nueva generación de monitoreo inteligente, autónomo y predictivo de infraestructuras.*
+<img width="806" height="780" alt="image" src="https://github.com/user-attachments/assets/3041634e-7cac-44d5-ad72-f15a84f54b9d" />
