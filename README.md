@@ -1,4 +1,4 @@
-# 🧠 SmartBridge: Automated Crack Detection & Analysis  
+# 🧠 AbregoBridge: Automated Crack Detection & Analysis  
 
 ![AI](https://img.shields.io/badge/AI-Computer--Vision-brightgreen?logo=opencv)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-orange?logo=pytorch)
