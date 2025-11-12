@@ -26,3 +26,10 @@ PySide6
 thop>=0.1.1
 ultralytics
 timm
+streamlit
+torch
+torchvision
+pillow
+opencv-python
+matplotlib
+numpy
